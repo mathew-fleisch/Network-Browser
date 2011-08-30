@@ -1,0 +1,26 @@
+#networkDescription{
+	width:500px;
+	padding:0;
+	margin:0;
+}
+.networkRow {
+	border-bottom:1px solid #888;
+}
+.nameCol{
+	font-weight:bold;
+	border-bottom:1px solid #888;
+	vertical-align:top;
+	padding: 10px 5px 5px 0;
+	width:75px;
+}
+.nameCol a{
+	font-size:80%;
+	font-weight:normal;
+	color:#999;
+}
+.descriptionCol {
+	font-weight:normal;
+	border-bottom:1px solid #888;
+	padding: 10px 5px 5px 0;
+	vertical-align:top;
+}
